@@ -1,0 +1,8 @@
+# User interface text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  tags_label                 : "Tags:"
+  categories_label           : "Industries:"  
+  recent_posts               : "Latest changes"
