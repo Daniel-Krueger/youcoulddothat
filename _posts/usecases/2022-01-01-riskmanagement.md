@@ -20,7 +20,7 @@ categories:
 excerpt: 
     Risk assessment and management used for tenders.
 sampleImage: 
-    url: /assets/images/posts/2021-02-01-summary-power-platfrom-webcon-bps/2021-03-07-21-00-04.png 
+    url: /assets/images/posts/2022-01-01-riskmanagement/2022-10-27-09-44-16.png
     subtitle: 'Teaser risk management'
 contacts: 
   - name: Daniel Krüger

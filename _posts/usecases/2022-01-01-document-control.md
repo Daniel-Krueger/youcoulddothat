@@ -17,9 +17,9 @@ categories:
 
 excerpt: 
     ISO Document control.
-sampleImage: 
-  - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
-    title: 'Document control sample'
+# sampleImage: 
+#   - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
+#     title: 'Document control sample'
 contacts: 
   - name: VSB
     url: https://www.vsb.de/webcon-bps/digitale-geschaeftsprozesse/vertragsverwaltung.html

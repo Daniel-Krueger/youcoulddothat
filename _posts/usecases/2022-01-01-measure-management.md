@@ -18,7 +18,7 @@ categories:
 excerpt: 
     Measure management.
 sampleImage: 
-  - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
+  - url: /assets/images/posts/2022-01-01-measure-management/2022-10-27-08-54-45.png 
     title: 'Measure management'
 contacts: 
   - name: VSB
@@ -30,3 +30,5 @@ usedBy: 40
 last_modified_at: 2022-09-10
 ---
 
+
+![]()

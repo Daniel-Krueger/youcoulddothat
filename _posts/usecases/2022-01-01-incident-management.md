@@ -17,9 +17,9 @@ categories:
 
 excerpt: 
     Incident management.
-sampleImage: 
-  - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
-    title: 'Document control sample'
+# sampleImage: 
+#   - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
+#     title: 'Document control sample'
 contacts: 
   - name: COSMO
     url: https://discover.cosmoconsult.com/de/produkt/incident-management/

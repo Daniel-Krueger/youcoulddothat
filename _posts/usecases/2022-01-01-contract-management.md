@@ -17,9 +17,9 @@ categories:
 
 excerpt: 
     Contract management.
-sampleImage: 
-  - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
-    title: 'Contract management sample'
+# sampleImage: 
+#   - url: https://www.ecosia.org/76a1f9cc-801a-4c09-9850-4ac21b67deb6 
+#     title: 'Contract management sample'
 contacts: 
   - name: VSB
     url: https://www.vsb.de/webcon-bps/digitale-geschaeftsprozesse/vertragsverwaltung.html
